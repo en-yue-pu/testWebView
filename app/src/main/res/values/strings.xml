@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">testWebView</string>
+    <string name="native_js">native调用js函数</string>
 </resources>
